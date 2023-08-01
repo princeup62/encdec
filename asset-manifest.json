@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fireBase-messenger/static/css/main.073c9b0a.css",
-    "main.js": "/fireBase-messenger/static/js/main.63443b13.js",
-    "index.html": "/fireBase-messenger/index.html",
-    "main.073c9b0a.css.map": "/fireBase-messenger/static/css/main.073c9b0a.css.map",
-    "main.63443b13.js.map": "/fireBase-messenger/static/js/main.63443b13.js.map"
+    "main.css": "/encdec/static/css/main.073c9b0a.css",
+    "main.js": "/encdec/static/js/main.63443b13.js",
+    "index.html": "/encdec/index.html",
+    "main.073c9b0a.css.map": "/encdec/static/css/main.073c9b0a.css.map",
+    "main.63443b13.js.map": "/encdec/static/js/main.63443b13.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
